@@ -1,5 +1,10 @@
 # Pew Link Project
 
+```{image} ../figs/community.png
+:alt: media logo
+:width: 600px
+```
+
 ## A Networked Approach to Church Unity
 
 Welcome to the Pew Link Project documentation! This project aims to explore and enhance the connections between churches, fostering unity and collaboration across different congregations.
