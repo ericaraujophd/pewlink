@@ -1,6 +1,6 @@
 # Pew Link Project
 
-```{image} ../figs/pew-cover.png
+```{image} figs/pew-cover.png
 :alt: media logo
 :width: 600px
 ```
